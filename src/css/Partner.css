@@ -1,0 +1,14 @@
+.partner {
+  text-align: center;
+  line-height: 160px;
+}
+
+.partner h2 {
+  font-size: 44px;
+  color: #000;
+}
+
+.partner img {
+  width: 1240px;
+  height: 500px;
+}
